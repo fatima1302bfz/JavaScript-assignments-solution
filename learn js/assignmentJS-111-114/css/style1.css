@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 900px;
+    height: 500px;
+    padding: 20px;
+    margin: 50px auto;
+    background-color: #eee;
+   
+}
+.selection{
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width:30%;
+    height: 100%;
+
+}
+.selection select{
+    width: 150px;
+    margin: 10px;
+    padding: 10px;
+    text-transform: capitalize;
+    outline: none;
+    border: none;
+}
+.show{
+    width: 60%;
+    height: 100%;
+    text-align: left;
+    overflow: auto;
+    font-family: 'Roboto';
+    color: red;
+    font-size: 16px;
+}
+.show h1{
+    margin-bottom: 20px;
+}

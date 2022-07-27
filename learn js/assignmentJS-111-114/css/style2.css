@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+form{
+    width: 500px;
+    border: 1px solid rgba(114, 114, 231, 0.89);;
+    margin:50px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 20px;
+  
+}
+form input, form select{
+    all: unset;
+    width: 90%;
+    border-bottom: 1px solid rgba(114, 114, 231, 0.89);
+    margin-bottom: 10px;
+    padding: 10px 15px;
+}
+form label{
+    font-size: 1.2rem;
+    margin-top: 10px;
+}
+form input:focus, form select:focus{
+    border: none;
+    box-shadow: 0px 0px 5px rgba(114, 114, 231, 0.89);
+}
