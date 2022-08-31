@@ -1,0 +1,37 @@
+[{
+        "id": 1,
+        "author": "Fatima",
+        "title": "Article1",
+        "category": "category1",
+        "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis quod omnis sint amet. Quaerat dolores a fugiat nisi placeat rem quisquam cupiditate molestias minus aliquam modi vel, consectetur cumque possimus."
+    },
+    {
+        "id": 2,
+        "author": "Fatima",
+        "title": "Article2",
+        "category": "category2",
+        "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis quod omnis sint amet. Quaerat dolores a fugiat nisi placeat rem quisquam cupiditate molestias minus aliquam modi vel, consectetur cumque possimus.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis quod omnis sint amet. Quaerat dolores a fugiat nisi placeat rem quisquam cupiditate molestias minus aliquam modi vel, consectetur cumque possimus.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis quod omnis sint amet. Quaerat dolores a fugiat nisi placeat rem quisquam cupiditate molestias minus aliquam modi vel, consectetur cumque possimus."
+    },
+    {
+        "id": 3,
+        "author": "Fatima",
+        "title": "Article3",
+        "category": "category3",
+        "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis sint amet."
+    },
+    {
+        "id": 4,
+        "author": "Fatima",
+        "title": "Article4",
+        "category": "category4",
+        "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis quod omnis sint amet. Quaerat."
+    },
+    {
+        "id": 5,
+        "author": "Fatima",
+        "title": "Article5",
+        "category": "category5",
+        "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perferendis quod omnis sint amet. Quaerat dolores a fugiat nisi placeat rem quisquam cupiditate molestias minus aliquam modi vel, consectetur cumque possimus."
+    }
+
+]
